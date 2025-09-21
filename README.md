@@ -20,3 +20,20 @@
 🛡️ Educational Purpose(教育目的)
 
 🔬 Research Project(研究项目)
+
+
+
+**MalDev​**​ is a code repository and knowledge base focused on advanced Windows Malware Development techniques. This project aims to collect, implement, and share modern evasion techniques and advanced attack patterns proven effective in real-world scenarios.
+
+​**​Core Principles​**​:
+
+- ​**​Quality over Quantity​**​: Every technique is meticulously implemented and thoroughly commented, striving to be a canonical example for research and learning.
+    
+
+- ​**​Depth over Breadth​**​: We delve into the underlying principles of techniques, not just superficial calls.
+    
+
+- ​**​Evergreen Focus​**​: We concentrate on core methodologies for bypassing security mechanisms, not on exploits against the fragility of any specific security product.
+    
+
+​**​Disclaimer: This project is intended for legal security research, penetration testing, and educational purposes only. Please use this knowledge responsibly.​**​
