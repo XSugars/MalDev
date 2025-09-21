@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\LocalFunctionStomping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A014802-4E2D-421A-AD16-4833BD97D073}|LocalFunctionStomping.vcxproj|D:\\Code\\LocalFunctionStomping\\LocalFunctionStomping.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A014802-4E2D-421A-AD16-4833BD97D073}|LocalFunctionStomping.vcxproj|solutionrelative:LocalFunctionStomping.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocalFunctionStomping.c",
+              "DocumentMoniker": "D:\\Code\\LocalFunctionStomping\\LocalFunctionStomping.c",
+              "RelativeDocumentMoniker": "LocalFunctionStomping.c",
+              "ToolTip": "D:\\Code\\LocalFunctionStomping\\LocalFunctionStomping.c",
+              "RelativeToolTip": "LocalFunctionStomping.c",
+              "ViewState": "AgIAANEAAAAAAAAAAAAcwP8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-21T15:23:41.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
